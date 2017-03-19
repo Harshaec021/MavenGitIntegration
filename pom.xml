@@ -140,7 +140,7 @@
             </filters>
 
         </build>
-        
+
     </profile>
     <profile>
       <id>chrome</id>
@@ -242,4 +242,9 @@
       </properties>
     </profile>
   </profiles>
+  <scm>
+    <connection>scm:git:git@github.com:Harshaec021/MavenGitIntegration</connection>
+    <url>scm:git:git@github.com:Harshaec021/MavenGitIntegration</url>
+    <developerConnection>scm:git:git@github.com:Harshaec021/MavenGitIntegration</developerConnection>
+  </scm>
 </project>
