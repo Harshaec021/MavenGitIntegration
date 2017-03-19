@@ -1,0 +1,4 @@
+browserName=chrome
+site.url=https://chrome.com
+grid.url=https://grid.chrome.com
+

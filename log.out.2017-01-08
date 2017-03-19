@@ -1,0 +1,5 @@
+DEBUG	2017-01-08 14:20:53,071	0	com.examples.log4jTest	[main]	Debug Message!
+INFO	2017-01-08 14:20:53,075	4	com.examples.log4jTest	[main]	Info Message!
+WARN	2017-01-08 14:20:53,075	4	com.examples.log4jTest	[main]	Warn Message!
+ERROR	2017-01-08 14:20:53,075	4	com.examples.log4jTest	[main]	Error Message!
+FATAL	2017-01-08 14:20:53,075	4	com.examples.log4jTest	[main]	Fatal Message!

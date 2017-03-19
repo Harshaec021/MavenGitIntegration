@@ -1,0 +1,4 @@
+browserName=firefox
+nativeEvents=false
+site.url=https://firefox.com
+grid.url=https://grid.firefox.com

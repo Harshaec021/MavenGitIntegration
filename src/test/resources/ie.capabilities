@@ -1,0 +1,4 @@
+browserName=internet explorer
+requireWindowFocus=true
+site.url=https://ie.com
+grid.url=https://grid.ie.com

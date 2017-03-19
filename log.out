@@ -1,0 +1,3 @@
+WARN	2017-03-18 22:31:15,375	0	com.examples.log4jTest	[main]	Warn Message!
+ERROR	2017-03-18 22:31:15,378	3	com.examples.log4jTest	[main]	Error Message!
+FATAL	2017-03-18 22:31:15,379	4	com.examples.log4jTest	[main]	Fatal Message!
